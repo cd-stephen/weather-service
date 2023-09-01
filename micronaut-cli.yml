@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.adt.acs
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, aws-v2-sdk, dynamodb, http-client, java, java-application, jetty-server, junit, logback, management, maven, maven-enforcer-plugin, micrometer, micrometer-dynatrace, micronaut-aot, properties, readme, security-annotations, security-jwt, serialization-jackson, shade, tracing-opentelemetry-exporter-otlp, validation]
